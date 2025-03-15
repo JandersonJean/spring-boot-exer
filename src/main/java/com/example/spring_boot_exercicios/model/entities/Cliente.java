@@ -1,4 +1,4 @@
-package com.example.spring_boot_exercicios.models;
+package com.example.spring_boot_exercicios.model.entities;
 
 public class Cliente {
 	private int id;
